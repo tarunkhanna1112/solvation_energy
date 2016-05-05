@@ -1,0 +1,10 @@
+{ MOL2_FILE: pl9_refit_sp2_ff99sb.mol2 }
+{ Number_of_atoms: 135 }
+{ Frame_start_end_step: 700 800 1 }
+{ Coordinate_file: 05_Prod_pl9_wrapped.nc }
+{ Prmtop_file: pl9.prmtop }
+{ frcmod_file: frcmod }
+{ Gaussian_level_of_calculation/basis_set: hf/3-21G }
+{ Scale_factor: 4 }
+{ Solvent_mask/central_atom/number_of_atoms_per_molecule : CL3 C1 5 }
+
